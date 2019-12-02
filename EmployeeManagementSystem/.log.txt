@@ -1,0 +1,2 @@
+2016-10-27 15:54:54 INFO  DAO.EmployeeDAO:109 - deleted sucessfully
+2016-10-27 15:54:54 INFO  DAO.EmployeeDAO:117 - database closed
